@@ -22,3 +22,13 @@ Install all required packages :
 
  pip install -r requirements.txt
 
+# References
+These links may help you to better understanding of the project idea and techniques used :
+
+Natural Language Processing (NLP) : https://ibm.co/38bN03T
+
+Sentiment analysis : https://bit.ly/3yi9BGq
+
+Naive Bayes classifier : https://bit.ly/3zhoWIO
+
+Model evaluation : https://bit.ly/3B12VOO
