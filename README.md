@@ -23,7 +23,7 @@ Install all required packages :
  pip install -r requirements.txt
 
 # References
-These links may help you to better understanding of the project idea and techniques used :-
+These links may help you to better understanding of the project idea and techniques used:-
 
 Natural Language Processing (NLP) : https://ibm.co/38bN03T
 
